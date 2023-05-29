@@ -38,6 +38,8 @@ Programs in this project were mainly run on Python. Figures in paper were plot b
 
 - **TrajectoryPlanning.py**: functions to generate trajectory points for different criteria given via points
 
+- **Note**: some data and folder paths in the codes might be changed due to repo reorganized, but data names should be unchanged.
+
 ## **Copy rights**
 The current license is a temporary license before paper published. All rights reserved.
 
