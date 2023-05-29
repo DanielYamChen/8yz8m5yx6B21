@@ -1,4 +1,4 @@
-# 8yz8m5yx6B21
+# M6QBKkxT6WRpNdSyhH8dwxTNw7wzwZ6A
 Repo to store program code, trained models, and data of simulation and experiment results for the paper under review, "Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System"
 
 ## Requirements
