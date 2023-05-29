@@ -1,0 +1,18 @@
+    clear all;
+% close all;
+t_axis = csvread('t_axis.csv');
+x_Bx = csvread('x_Bx.csv');
+x_By = csvread('x_By.csv');
+theta_B_hybrid = csvread('theta_B_hybrid.csv');
+% theta_B_PID = csvread('theta_B_PID.csv');
+% theta_B_iLQR = csvread('theta_B_iLQR.csv');
+x_mB_hybrid = csvread('x_mB_hybrid.csv');
+% x_mB_PID = csvread('x_mB_PID.csv');
+% x_mB_iLQR = csvread('x_mB_iLQR.csv');
+% theta_B_set = csvread('theta_B_set.csv');
+% x_mB_set = csvread('x_mB_set.csv');
+% a_mB_cntr = csvread('a_mB_cntr.csv');
+% a_mB_box = csvread('a_mB_box.csv');
+% a_mB_grvty = csvread('a_mB_grvty.csv');
+est_x_mB = csvread('est_x_mB.csv');
+msr_tau = csvread('msr_tau.csv');
