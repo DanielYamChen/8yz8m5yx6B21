@@ -45,12 +45,21 @@ The current license is a temporary license before paper published. All rights re
 
 ## Citation
 @article{chen2024deep,
-author = {Chen, Bo-Hsun and Lin, Pei-Chun},
-title = {Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System},
-journal = {Advanced Intelligent Systems},
-volume = {6},
-number = {1},
-pages = {2300379},
-doi = {https://doi.org/10.1002/aisy.202300379},
-year = {2024}
+
+    author = {Chen, Bo-Hsun and Lin, Pei-Chun},
+
+    title = {Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System},
+
+    journal = {Advanced Intelligent Systems},
+
+    volume = {6},
+
+    number = {1},
+
+    pages = {2300379},
+
+    doi = {https://doi.org/10.1002/aisy.202300379},
+
+    year = {2024}
+
 }
