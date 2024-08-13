@@ -1,5 +1,5 @@
-# M6QBKkxT6WRpNdSyhH8dwxTNw7wzwZ6A
-Repo to store program code, trained models, and data of simulation and experiment results for the paper under review, "Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System"
+# ISOSC
+Official repo to store program code, trained models, and data of simulation and experiment results for the paper, [Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300379)
 
 ## Requirements
 Programs in this project were mainly run on Python. Figures in paper were plot by MATLAB.
@@ -43,4 +43,14 @@ Programs in this project were mainly run on Python. Figures in paper were plot b
 ## **Copy rights**
 The current license is a temporary license before paper published. All rights reserved.
 
-
+## Citation
+@article{chen2024deep,
+author = {Chen, Bo-Hsun and Lin, Pei-Chun},
+title = {Deep Imitation Learning for Optimal Trajectory Planning and Initial Condition Optimization for an Unstable Dynamic System},
+journal = {Advanced Intelligent Systems},
+volume = {6},
+number = {1},
+pages = {2300379},
+doi = {https://doi.org/10.1002/aisy.202300379},
+year = {2024}
+}
